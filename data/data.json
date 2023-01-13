@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "category": "women",
+        "name": "Cotton Oversized Short Sleeve T-Shirt",
+        "description": "Soft texture and an oversized cut. Perfect for relaxed styling.",
+        "price": 19,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449871/sub/goods_449871_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 2,
+        "category": "women",
+        "name": "Printed V Neck Long Sleeve Blouse",
+        "description": "Elegant fabric, cut and print. Adds an accent to any outfit.",
+        "price": 39,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/454356/sub/goods_454356_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 3,
+        "category": "women",
+        "name": "Ribbed Striped Crew Neck Half Sleeve T-Shirt",
+        "description": "Ribbed fabric for an exceptional fit. Thick enough to wear on its own.",
+        "price": 29,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/453272/sub/goods_453272_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 4,
+        "category": "women",
+        "name": "Baker Pants",
+        "description": "Classic baker pant pockets. Roll up the hems for a laid-back style.",
+        "price": 59,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456194/sub/goods_456194_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 5,
+        "category": "women",
+        "name": "Ultra Stretch Jogger Pants",
+        "description": "Sleek jogger pants. Smooth with incredible stretch for easy movement.",
+        "price": 49,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455942/sub/goods_455942_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 6,
+        "category": "women",
+        "name": "High Rise Denim Leggings Pants",
+        "description": "A flattering high-rise waist with Ultra Stretch fabric. High-rise, Skinny Fit.",
+        "price": 39,
+        "picture": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/439242/sub/augoods_439242_sub13.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 7,
+        "category": "women",
+        "name": "Linen Blend Shirring Sleeveless Dress",
+        "description": "Our lightweight and airy dress. Designed with an attractive fit for breezy style.",
+        "price": 59,
+        "picture": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/448087/sub/augoods_448087_sub13.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 8,
+        "category": "women",
+        "name": "Printed Front Slit Camisole Dress",
+        "description": "Fit-and-flare silhouette with a delicate flower print.",
+        "price": 49,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/446841/sub/goods_446841_sub13.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 9,
+        "category": "women",
+        "name": "Crew Neck Short Sleeve T-Shirt Dress",
+        "description": "Relaxed fabric and cut. This versatile dress can be worn alone or layered.",
+        "price": 29,
+        "picture": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/447081/sub/augoods_447081_sub13.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 10,
+        "category": "men",
+        "name": "Flannel Checked Long Sleeve Shirt",
+        "description": "Based on customer feedback, we updated the material to a thicker fabric. Looks great on its own or as a light outer layer.",
+        "price": 39,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/451301/sub/goods_451301_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 11,
+        "category": "men",
+        "name": "Denim Long Sleeve Shirt",
+        "description": "The distinctive feel and color of denim. Featuring a stylish collar shape.",
+        "price": 49,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450262/sub/goods_450262_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 12,
+        "category": "men",
+        "name": "Oversized Crew Neck Half Sleeve T-shirt",
+        "description": "Oversized T-shirt in durable fabric for casual styling.",
+        "price": 19,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456149/sub/goods_456149_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 13,
+        "category": "men",
+        "name": "Dry Stretch Easy Shorts",
+        "description": "Quick-drying fabric that allows ease of movement. Versatile pants for relaxing at home or wearing out and about.",
+        "price": 29,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/454780/sub/goods_454780_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 14,
+        "category": "men",
+        "name": "Skinny Fit Chino Pants",
+        "description": "Sleek, slim and stretchy. Soft and comfortable to wear.",
+        "price": 59,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455701/sub/goods_455701_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 15,
+        "category": "men",
+        "name": "Ultra Stretch Jeans",
+        "description": "Looks like real denim, but feels as comfy as sweatpants. Improved silhouette for a more flattering fit.",
+        "price": 49,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455476/sub/goods_455476_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 16,
+        "category": "men",
+        "name": "Denim Trucker Jacket",
+        "description": "Authentic denim jacket with added stretch. Contemporary fit and design in a shorter length.",
+        "price": 69,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449616/sub/goods_449616_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 17,
+        "category": "men",
+        "name": "Ultra Stretch Active Zip-Up Jacket",
+        "description": "Incredible stretch and a stay-fresh feel. Comfortable and highly functional.",
+        "price": 39,
+        "picture": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/445177/sub/augoods_445177_sub13.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 18,
+        "category": "men",
+        "name": "Ultra Light Jacket",
+        "description": "An amazingly comfortable high-performance jacket. Natural texture suitable for both business and casual wear.",
+        "price": 79,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/444557/sub/goods_444557_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 19,
+        "category": "kids",
+        "name": "Short Sleeve Graphic T-Shirt",
+        "description": "Comfortable soft cotton with high quality print in front.",
+        "price": 9,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457768/sub/goods_457768_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 20,
+        "category": "kids",
+        "name": "Dry Pique Short Sleeve Polo Shirt",
+        "description": "A tasteful polo in classic colours and a versatile design.",
+        "price": 19,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/443962/item/goods_69_443962.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 21,
+        "category": "kids",
+        "name": "Ultra Stretch Long Sleeve Sweatshirt",
+        "description": "A comfy sweatshirt with incredible stretch. Relaxed cut with dropped shoulders.",
+        "price": 29,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450694/sub/goods_450694_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 22,
+        "category": "kids",
+        "name": "Ultra Stretch Tapered Pants",
+        "description": "Sleek new design without a belt. Incredibly stretchy for a comfortable fit.",
+        "price": 29,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449833/sub/goods_449833_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 23,
+        "category": "kids",
+        "name": "Ultra Stretch Active Jogger Pants",
+        "description": "Quick-drying fabric with outstanding stretch for easy movement. Sleek ankle length.",
+        "price": 19,
+        "picture": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444800/sub/augoods_444800_sub13.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 24,
+        "category": "kids",
+        "name": "Ultra Stretch Denim Tapered Pants",
+        "description": "Sleek new design without a belt. Incredible stretch for a comfortable fit.",
+        "price": 29,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449834/sub/goods_449834_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 25,
+        "category": "kids",
+        "name": "Looney Tunes Sweat Hoodie",
+        "description": "A Looney Tunes collection, featuring the beloved Bugs Bunny, that celebrates the Year of the Rabbit and 100 years of Warner Bros.",
+        "price": 39,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/457217/sub/goods_457217_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 26,
+        "category": "kids",
+        "name": "Pocketable Nylon Parka",
+        "description": "Hooded lightweight parka comes in three different neutral and earth-tone colours.",
+        "price": 49,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/449854/sub/goods_449854_sub14.jpg?width=1600&impolicy=quality_75"
+    },
+    {
+        "id": 27,
+        "category": "kids",
+        "name": "Ultra Stretch Dry Sweat Long Sleeve Full-Zip Hoodie",
+        "description": "High-performance, quick-drying sweat fabric. Full of child-friendly details.",
+        "price": 39,
+        "picture": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450693/sub/goods_450693_sub14.jpg?width=1600&impolicy=quality_75"
+    }
+]

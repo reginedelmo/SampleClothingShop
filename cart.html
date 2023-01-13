@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>S&J's Clothing</title>
+    <link rel="icon" type="image/x-icon" href="img/logo.png">
     <link rel="stylesheet" href="styles/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -34,10 +35,93 @@
             </div>
         </nav>
     </div>
-    <div class="main-body container">
-        <div class="main">
-
+    <div class="container mt-5 mb-5">
+      <p class="h1 text-center">My Cart</p><br><br>
+      <div class="row">
+        <div class="col-lg-8 col-md-8 col-sm-12">
+          <div class="vstack gap-1" id="cart">
+            <div class="card mb-3 w-100 h-100">
+              <div class="card-header">
+                <button type="button" class="btn-close float-end" aria-label="Close"></button>
+              </div>
+              <div class="row g-0">
+                <div class="col-md-4">
+                  <img src="img/c1.jpg" class="img-fluid w-100 h-100" alt="...">
+                </div>
+                <div class="col-md-8">
+                  <div class="card-body">
+                    <h5 class="card-title fs-6">Flannel Checked Long Sleeve Shirt - M</h5>
+                    <p class="card-text">$39.90</p>
+                    <p class="card-text"><small class="text-muted">Quantity</small></p>
+                    <div class="input-group mb-3" style="width: 120px;">
+                      <button class="btn btn-outline-secondary" type="button">-</button>
+                      <input type="text" class="form-control text-center" placeholder="1" aria-label="Number">
+                      <button class="btn btn-outline-secondary" type="button">+</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="card mb-3 w-100 h-100">
+              <div class="card-header">
+                <button type="button" class="btn-close float-end" aria-label="Close"></button>
+              </div>
+              <div class="row g-0">
+                <div class="col-md-4">
+                  <img src="img/c2.jpg" class="img-fluid w-100 h-100" alt="...">
+                </div>
+                <div class="col-md-8">
+                  <div class="card-body">
+                    <h5 class="card-title">Skinny Fit Chino Pants - M</h5>
+                    <p class="card-text">$59.90</p>
+                    <p class="card-text"><small class="text-muted">Quantity</small></p>
+                    <div class="input-group mb-3" style="width: 120px;">
+                      <button class="btn btn-outline-secondary" type="button">-</button>
+                      <input type="text" class="form-control text-center" placeholder="1" aria-label="Number">
+                      <button class="btn btn-outline-secondary" type="button">+</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="card mb-3 w-100 h-100">
+              <div class="card-header">
+                <button type="button" class="btn-close float-end" aria-label="Close"></button>
+              </div>
+              <div class="row g-0">
+                <div class="col-md-4">
+                  <img src="img/c3.jpg" class="img-fluid w-100 h-100" alt="...">
+                </div>
+                <div class="col-md-8">
+                  <div class="card-body">
+                    <h5 class="card-title">Denim Trucker Jacket - L</h5>
+                    <p class="card-text">$69.90</p>
+                    <p class="card-text"><small class="text-muted">Quantity</small></p>
+                    <div class="input-group mb-3" style="width: 120px;">
+                      <button class="btn btn-outline-secondary" type="button">-</button>
+                      <input type="text" class="form-control text-center" placeholder="1" aria-label="Number">
+                      <button class="btn btn-outline-secondary" type="button">+</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
+        <div class="col-lg-4 col-md-4 col-sm-12">
+          <div class="card w-100">
+            <div class="card-body">
+              <h5 class="card-title">Total: <u>$169.70</u></h5>
+              <h6 class="card-subtitle mb-2 ms-4 text-muted">1 x Flannel Checked Long Sleeve Shirt - M</h6>
+              <h6 class="card-subtitle mb-2 ms-4 text-muted">1 x Skinny Fit Chino Pants- M</h6>
+              <h6 class="card-subtitle mb-2 ms-4 text-muted">1 x Denim Trucker Jacket - L</h6>
+              <p class="card-text ms-2">3 items</p>
+              <button type="button" class="btn btn-dark w-100" style="width: 185px;">Checkout</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
     </div>
     <!--Footer-->
     <div class="sticky-bottom">

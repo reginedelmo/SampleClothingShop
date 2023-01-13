@@ -5,6 +5,12 @@ body {
     background-color: whitesmoke !important;
 }
 
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
 .navbar-brand img{
     margin-left: 15px;
     width: 60px;
@@ -29,9 +35,14 @@ body {
     margin-right: 15px;
 }
 
+#vam{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
 .main-body img{
     width: 100vw;
-    height: 100vmax;
+    height: 100vh;
 }
 
 .main-body .text{
@@ -40,7 +51,7 @@ body {
     top: 40%;
     left: 10%;
     text-shadow: rgba(0, 0, 0, 0.8) 0.1em 0.1em 0.3em, rgba(55, 55, 55, 0.8) 0.1em 0.1em 0.2em;
-    background-color: rgba(255, 255, 255, 0.4);
+    background-color: rgba(255, 255, 255, 0.3);
     padding: 20px;
     border-radius: 16px;
     border: 1px solid rgba(55, 55, 55, 0.18);
@@ -55,6 +66,19 @@ body {
     text-shadow: none;
 }
 
+.main{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(237, 237, 237);
+}
+
+#cart{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .about-page{
     margin-top: 30px;
     align-items: center;
@@ -64,6 +88,9 @@ body {
 /* Responsive */
 @media (max-width: 768px) {
     .main-body{
+        width: fit-content;
+    }
+    .main{
         width: fit-content;
     }
 }
